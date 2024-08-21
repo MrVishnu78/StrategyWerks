@@ -14,5 +14,10 @@ This is a React application that demonstrates virtual scrolling with a data-driv
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/MrVishnu78/StrategyWerks.git
+```
+
+### 2. Run the Project
+
+  1. npm install
+  2. npm run dev
